@@ -26,3 +26,6 @@ To become a leading name in developing accessible and functional applications de
 - [Kuiro UI](https://ui.kuiro.pro/)
 - [Kuiro Discord](http://motidev.xyz/discord)
 - [Kuiro Main](https://kuiro.pro/)
+
+
+© 2025 Kuiro. All rights reserved.
